@@ -1,0 +1,15 @@
+.coin-app{
+  background-color: black;
+  color: white;
+  padding: 10px;
+  
+}
+
+.coin-search{
+  text-align: center;
+}
+
+.coin-input{
+  width: 200px;
+  padding: 10px;
+}
